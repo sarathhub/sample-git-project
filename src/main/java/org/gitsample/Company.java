@@ -8,7 +8,7 @@ public class Company {
 	//Change 1
 
 	private String name;
-	private String address;
+	
 	private int salary;
 	public String getName() {
 		return name;
